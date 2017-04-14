@@ -2,7 +2,7 @@
 #include<ctype.h>
 int main()
 {
-    int i= 0;
+    int i=   123;
     char ch;
     puts("Input an integer followed by a char:");
     // 读取字符直到遇到结束符或者非数字字符
