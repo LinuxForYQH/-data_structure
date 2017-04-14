@@ -3,7 +3,7 @@
 int main()
 {
 
-    int i=   123;
+    int i=0;
 
     char ch;
     puts("Input an integer followed by a char:");
